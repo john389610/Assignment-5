@@ -17,10 +17,10 @@
 
 
 
-John Vincent
-Assignment 5
-Spell Checker Using  Binary Search Trees 
-Due 11/11/2016
+								John Vincent
+								Assignment 5
+						Spell Checker Using  Binary Search Trees 
+								Due 11/11/2016
 
 
 
